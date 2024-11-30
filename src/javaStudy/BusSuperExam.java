@@ -31,9 +31,9 @@ public class BusSuperExam {
 //        else if(car.number != 3000){
 //            System.out.println("bus의 number가 다릅니다.");
 //        }
-//      else if(bus.fee != 1050){
+//        else if(bus.fee != 1050){
 //          System.out.println("bus의 fee가 다릅니다.");
-//      }
+//        }
 //        else{
 //            System.out.println("정답입니다. [제출]을 누르세요.");
 //        }
